@@ -3,10 +3,10 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "Arjun with billing account",
+  "name": "Arjun Kafka Test",
   "address": "Bangalore, India",
   "dateOfBirth": "2001-03-05",
-  "email": "arjun_billing_account_kproducer@example.com",
+  "email": "kafka_test4@example.com",
   "registeredDate": "2015-03-05"
 }
 
